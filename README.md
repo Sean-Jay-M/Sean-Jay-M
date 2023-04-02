@@ -5,7 +5,7 @@
 - 📫 How to reach me: seanmoisellecontact@gmail.com
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Jay-M&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Jay-M&layout=compact" size ="400"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Sean-Jay-M&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/> 
 </p>
 ## Toolbox
