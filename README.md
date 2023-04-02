@@ -4,14 +4,10 @@
 - 📈 I am the co-founder of the award winning company TEAMO.
 - 📫 How to reach me: seanmoisellecontact@gmail.com
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sean-Jay-M&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="center">
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Jay-M&layout=compact" width="100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Jay-M&layout=compact" width="100" /> 
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Jay-M&layout=compact" align="center">
-</p>
-
 ## Toolbox
 
 <table>
