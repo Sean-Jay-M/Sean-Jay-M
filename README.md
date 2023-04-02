@@ -11,7 +11,7 @@
 
 ## 💼 Technical Skills / Toolbox
 
-<tablev>
+<table>
   <tr>
     <td valign="middle">
       <span>Languages</span>
