@@ -11,19 +11,19 @@
 
 ## 💼 Technical Skills / Toolbox
 
-<tablev align="center">
+<tablev>
   <tr>
     <td valign="middle">
       <span>Languages</span>
     </td>
     <td valign="middle">
       <div float="left">
-        <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-        <img src="https://img.shields.io/badge/SQL-%234169E1.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
       </div>
     </td>
