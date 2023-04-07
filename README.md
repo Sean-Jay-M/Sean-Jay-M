@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Sean Moiselle
 - 🔭 I’m currently studying computer science at University College Dublin
 - 🌱 I am a Machine Learning Engineer/Data Engineer working at "Currently Unavailable".
-- 📈 I am the co-founder of the award winning company TEAMO.
+- 📈 I was the co-founder of the award winning company TEAMO.
 - 📫 How to reach me: seanmoisellecontact@gmail.com
 
 <p float="left" align="center">
