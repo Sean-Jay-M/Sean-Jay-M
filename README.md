@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Sean Moiselle
 - 🔭 I’m a graduate of University College Dublin with an MSc in Computer Science
-- 🌱 I am a Machine Learning Engineer/Data Engineer working at "Currently Unavailable".
+- 🌱 I am a Machine Learning Engineer working at "Currently Unavailable".
 - 📈 I was the co-founder of the award winning company TEAMO.
 - 📫 How to reach me: seanmoisellecontact@gmail.com
 
