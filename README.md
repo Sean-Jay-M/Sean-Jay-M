@@ -1,8 +1,10 @@
 # Hi there 👋, my name is Sean Moiselle
-- 🔭 I’m a graduate of University College Dublin with an MSc in Computer Science
 - 🌱 I am a Machine Learning Engineer working at "Currently Unavailable".
 - 🤖 Currently building complex and novel Artificial Intelligence for Financial Processes.
+- 🔭 I’m a graduate of University College Dublin with an MSc in Computer Science 1st Class Honours.
+- 🎓 I also graduated from Technological Univeristy Dublin (Bsc 1st Class Honors) and Nankai University (Certificate).
 - 📈 I was the co-founder of the award winning company TEAMO.
+- 🤓 I won a competitve academic scholarship from Huawei.
 - 📫 How to reach me: seanmoisellecontact@gmail.com
 
 <p float="left" align="center">
