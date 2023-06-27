@@ -2,7 +2,7 @@
 - 🌱 I am a Machine Learning Engineer working at "Currently Unavailable".
 - 🤖 Currently building complex and novel Artificial Intelligence for Financial Processes.
 - 🔭 I’m a graduate of University College Dublin with an MSc in Computer Science 1st Class Honours.
-- 🎓 I also graduated from Technological Univeristy Dublin (Bsc 1st Class Honors) and Nankai University (Certificate).
+- 🎓 I also graduated from Technological Univeristy Dublin (Bsc 1st Class Honors) and Nankai University (Certificate on Pass/Fail Grading Scheme).
 - 📈 I was the co-founder of the award winning company TEAMO.
 - 🤓 I won a competitve academic scholarship from Huawei.
 - 📫 How to reach me: seanmoisellecontact@gmail.com
