@@ -1,4 +1,4 @@
-**Personal Website Currently Down**
+**Personal Website Currently Down: Will be worked on in the coming weeks 15/07/2023**
 
 # Hi there 👋, my name is Sean Moiselle
 - 🌱 I am a Machine Learning Engineer working at "Currently Unavailable".
